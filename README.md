@@ -1,4 +1,4 @@
-# 💼 IT Consultant Internship — Alankaeon Consulting Pvt. Ltd.
+#  IT Consultant Internship — Alankaeon Consulting Pvt. Ltd.
 
 **Intern:** Eklavya Pratap Singh  
 **Role:** IT Consultant Intern  
@@ -8,7 +8,7 @@
 
 ---
 
-## 🏢 About the Company
+##  About the Company
 
 **Alankaeon Consulting Pvt. Ltd.** is a Noida-based private company incorporated in February 2022, specializing in:
 - Computer Systems Design & Related Services
@@ -19,7 +19,7 @@ The company helps clients navigate complex business challenges through innovativ
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To assist the consulting team in delivering technology-driven solutions to clients by:
 - Analyzing client requirements and mapping them to suitable IT solutions
@@ -28,7 +28,7 @@ To assist the consulting team in delivering technology-driven solutions to clien
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Category | Tools Used |
 |---|---|
@@ -41,7 +41,7 @@ To assist the consulting team in delivering technology-driven solutions to clien
 
 ---
 
-## 📋 Work Done
+##  Work Done
 
 ### 1. Client Requirement Analysis
 - Assisted senior consultants in gathering and documenting client IT requirements
@@ -70,7 +70,7 @@ To assist the consulting team in delivering technology-driven solutions to clien
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 internship-alankaeon/
@@ -94,17 +94,17 @@ internship-alankaeon/
 
 ---
 
-## 📊 Key Outcomes
+##  Key Outcomes
 
-- ✅ Contributed to **3+ client documentation projects** during the internship
-- ✅ Developed **market research reports** comparing 10+ technology tools
-- ✅ Created **PowerPoint presentations** used in actual client meetings
-- ✅ Built proficiency in **professional business documentation** standards
-- ✅ Gained hands-on exposure to **IT consulting workflows** end-to-end
+-  Contributed to **3+ client documentation projects** during the internship
+-  Developed **market research reports** comparing 10+ technology tools
+-  Created **PowerPoint presentations** used in actual client meetings
+-  Built proficiency in **professional business documentation** standards
+-  Gained hands-on exposure to **IT consulting workflows** end-to-end
 
 ---
 
-## 🧠 Key Learnings
+##  Key Learnings
 
 1. **Consulting mindset** — Understanding that the right solution depends entirely on the client's context, not just technical capability
 2. **Communication** — How to present technical options clearly to non-technical decision makers
@@ -114,17 +114,17 @@ internship-alankaeon/
 
 ---
 
-## 🏆 Certificate
+##  Certificate
 
 Received an internship completion certificate from **Alankaeon Consulting Pvt. Ltd.** upon successful completion of the internship in December 2025.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Eklavya Pratap Singh**  
 IT Consultant Intern | Dec 2025  
-📍 Uttar Pradesh, India
+ Uttar Pradesh, India
 
 ---
 
